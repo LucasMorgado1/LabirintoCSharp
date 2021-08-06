@@ -1,0 +1,52 @@
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.exe
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.deps.json
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.runtimeconfig.json
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.runtimeconfig.dev.json
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.dll
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.pdb
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.csprojAssemblyReference.cache
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.AssemblyInfoInputs.cache
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.AssemblyInfo.cs
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.csproj.CoreCompileInputs.cache
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.dll
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.pdb
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.genruntimeconfig.cache
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.exe
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.deps.json
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.runtimeconfig.json
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.dll
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.pdb
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.AssemblyInfo.cs
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.dll
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.pdb
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.genruntimeconfig.cache
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.csprojAssemblyReference.cache
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.AssemblyInfoInputs.cache
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.AssemblyInfo.cs
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.csproj.CoreCompileInputs.cache
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.dll
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.pdb
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.exe
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.deps.json
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.runtimeconfig.json
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.runtimeconfig.dev.json
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.dll
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.pdb
+E:\Faculdade\5semestre\Estrutura de dados\labirinto\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.genruntimeconfig.cache
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.exe
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.deps.json
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.runtimeconfig.json
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.dll
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\labirinto\bin\Debug\netcoreapp3.1\labirinto.pdb
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.AssemblyInfo.cs
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.dll
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.pdb
+C:\Users\Lucas\Documents\Faculdade\5o Semestre\Estrutura de Dados\Trabalho do Labirinto\labirinto\labirinto\labirinto\labirinto\obj\Debug\netcoreapp3.1\labirinto.genruntimeconfig.cache

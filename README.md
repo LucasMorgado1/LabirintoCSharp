@@ -4,4 +4,6 @@
  
  **Importante:** no .txt, é **essêncial** que as bordas sejam preenchidas por -1, pois eles são como "paredes", impedindo do código de quebrar.
  
+ Um exemplo de como fica a resolução do código:
+ 
 ![](imagens/printResolucao.png)
